@@ -67,6 +67,9 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+## Documentation
+
+Com a api ativa, acesse: http://localhost:3000/api
 
 ## Resources
 
