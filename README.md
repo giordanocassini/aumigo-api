@@ -28,9 +28,19 @@
 
 ## Project setup
 
+Acesse a pasta raiz do projeto e rode o comando:
+
 ```bash
 $ npm install
 ```
+
+## ENV setup
+
+Faça uma cópia do arquivo ".env.exemple" e nomeie-a ".env". Prencha as propriedades .env devidamente para que a aplicação possa funcionar.
+
+## Port setup
+
+A API está configurada para rodar na porta 3000, caso deseje alterar, acesse o arquivo src/main.ts alterando a linha ![alt text](image.png)
 
 ## Compile and run the project
 
